@@ -48,3 +48,20 @@
 		padding-bottom: 200px;
 	}
 }
+
+
+.module {
+    padding: var(--module-padding-top,var(--module-padding)) 0 var(--module-padding) 0
+}
+
+.align--center {
+    text-align: center!important
+}
+
+.align--left {
+    text-align: left!important
+}
+
+.align--right {
+    text-align: right!important
+}
