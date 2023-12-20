@@ -143,12 +143,6 @@
     padding-bottom: 120px!important
 }
 
-.container {
-    transition: max-width .5s;
-    background-size: cover
-}
-
-
 
 .position-relative {
     position: relative!important
